@@ -4,6 +4,7 @@ A Java console application simulating an ATM machine with withdrawal, deposit, a
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Java Programming
 * **Company:** CodSoft
 
 ### 🎯 Objective
